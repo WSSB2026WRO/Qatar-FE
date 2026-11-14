@@ -12,13 +12,13 @@ Here is our car from every side. It runs on a LEGO EV3 with two drive motors, on
 
 | Top | Bottom |
 |---|---|
-| *(top photo coming soon)* | <img src="bottom.jpg" width="300"> |
+| <img src="top.jpg" width="300"> | <img src="bottom.jpg" width="300"> |
 
 ## Extra shots
 
-| Bottom with the steering turned | Bottom, seen from the back |
-|---|---|
-| <img src="bottom-steering-turned.jpg" width="300"> | <img src="bottom-rear.jpg" width="300"> |
+| Bottom with the steering turned |
+|---|
+| <img src="bottom-steering-turned.jpg" width="300"> |
 
 You can see how the steering works in the first one: the steering motor moves both front wheels together through the red linkage parts.
 
