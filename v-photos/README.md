@@ -4,7 +4,7 @@ Here is our car from every side. It runs on a LEGO EV3 with two drive motors, on
 
 | Front | Back |
 |---|---|
-| <img src="front.jpg" width="300"> | <img src="back.jpg" width="300"> |
+| <img src="front.jpg" width="300"> | <img src="rear.jpg" width="300"> |
 
 | Left | Right |
 |---|---|
